@@ -16,5 +16,6 @@ I built this after noticing that many people (including myself) struggle to choo
 - JavaScript  
 - CSS
 
+<img width="269" height="317" alt="image" src="https://github.com/user-attachments/assets/4974a228-1c8a-4a9c-91a2-5f164513577a" />
 
 
